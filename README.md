@@ -1,4 +1,9 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A simple Weather application with react js.
+Built for mobile screen
+
+## INSTALL NODE JS
+
+## `npm install`
 
 ## Available Scripts
 
